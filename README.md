@@ -29,6 +29,7 @@ pip install mmpretrain==1.2.0
 ```bash
 pip install -e .
 ```
+---
 
 ## Pascal VOC
 
