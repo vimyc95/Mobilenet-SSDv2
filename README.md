@@ -18,7 +18,7 @@ conda activate mobilenetssdv2
 ### 2. Install Python packages
 ```bash
 # Install PyTorch with CUDA 12.4
-pip install torch==2.5.0 torchvision==0.20.0 torchaudio==2.5.0     --index-url https://download.pytorch.org/whl/cu124
+pip install torch==2.5.0 torchvision==0.20.0 torchaudio==2.5.0 --index-url https://download.pytorch.org/whl/cu124
 
 # Install OpenMMLab dependencies
 pip install mmcv==2.2.0
