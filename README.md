@@ -30,6 +30,12 @@ pip install mmpretrain==1.2.0
 pip install -e .
 ```
 
+## Pascal VOC
+
+Network|size |mAP|config|weight
+:---:|:---:|:---:|:---:|:---:|
+MobileNet-SSD|512|?|[link](https://github.com/vimyc95/Mobilenet-SSDv2/blob/main/projects/MobilenetSSDv2/configs/ssdlite512_mobilenetv2_4xb8-200e_voc.py)|[download](https://drive.google.com/file/d/0B3gersZ2cHIxRm5PMWRoTkdHdHc/view?usp=sharing&resourcekey=0-1Lpfs4EvGDeCQz12AF64hQ)
+MobileNet-SSDv2|512|74.9|[link](https://github.com/vimyc95/Mobilenet-SSDv2/blob/main/projects/MobilenetSSDv2/configs/ssdlite512_fpn_mobilenetv2_4xb8-200e_voc.py)|[download](https://drive.google.com/file/d/0B3gersZ2cHIxRm5PMWRoTkdHdHc/view?usp=sharing&resourcekey=0-1Lpfs4EvGDeCQz12AF64hQ)
 
 ---
 
