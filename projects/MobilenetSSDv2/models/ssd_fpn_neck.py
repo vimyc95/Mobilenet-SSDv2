@@ -1,4 +1,5 @@
-# Copyright (c) OpenMMLab. All rights reserved.
+# Copyright (c) 2025 Kevin.Chiu, RVLab, Tamkang University. All rights reserved.
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
