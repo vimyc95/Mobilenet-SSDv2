@@ -2,8 +2,7 @@
 # MobileNet SSDv2 Object Detection
 
 Mobilenet-SSDv2: An improved object detection model for embedded systems.   
-This repository uses [PyTorch](https://pytorch.org/) and [OpenMMLab](https://openmmlab.com/) frameworks.   
-[Paper](https://ieeexplore.ieee.org/abstract/document/9219319)
+This repository uses [PyTorch](https://pytorch.org/) and [OpenMMLab](https://openmmlab.com/) frameworks. Paper->[link](https://ieeexplore.ieee.org/abstract/document/9219319)
 
 ## Installation
 
