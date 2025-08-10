@@ -35,7 +35,7 @@ pip install -e .
 Network|size |mAP|Config|Download
 :---:|:---:|:---:|:---:|:---:|
 MobileNet-SSD|512|72.7|[config](https://github.com/vimyc95/Mobilenet-SSDv2/blob/main/projects/MobilenetSSDv2/configs/ssdlite512_mobilenetv2_4xb8-200e_voc.py)|[model](https://drive.google.com/file/d/16oaXvI-jCqTA4ha8JolqTbSINlAPC_iq/view?usp=sharing) \| [logs](https://drive.google.com/file/d/1o4UEWn45BgN5MuXdS2HcQDeB7t77b9QK/view?usp=sharing)
-MobileNet-SSDv2|512|75.6|[config](https://github.com/vimyc95/Mobilenet-SSDv2/blob/main/projects/MobilenetSSDv2/configs/ssdlite512_fpn_mobilenetv2_4xb8-200e_voc.py)|[model](https://drive.google.com/file/d/1E_kmog8ziuqvjOcHgBp6xnAvbJ-Mr0Fp/view?usp=sharing)\| [logs](https://drive.google.com/file/d/1LM8FoSBNJNPlPqki_etx1U-3znFtQp7d/view?usp=sharing)
+MobileNet-SSDv2|512|75.6|[config](https://github.com/vimyc95/Mobilenet-SSDv2/blob/main/projects/MobilenetSSDv2/configs/ssdlite512_fpn_mobilenetv2_4xb8-200e_voc.py)|[model](https://drive.google.com/file/d/1E_kmog8ziuqvjOcHgBp6xnAvbJ-Mr0Fp/view?usp=sharing) \| [logs](https://drive.google.com/file/d/1LM8FoSBNJNPlPqki_etx1U-3znFtQp7d/view?usp=sharing)
 
 ---
 
