@@ -1,8 +1,8 @@
 
 # MobileNet SSDv2 Object Detection
 
-Mobilenet-SSDv2: An improved object detection model for embedded systems.   
-This repository uses [PyTorch](https://pytorch.org/) and [OpenMMLab](https://openmmlab.com/) frameworks. Paper->[link](https://ieeexplore.ieee.org/abstract/document/9219319)
+Mobilenet-SSDv2[[pdf]](https://ieeexplore.ieee.org/abstract/document/9219319): An improved object detection model for embedded systems.   
+This repository uses [PyTorch](https://pytorch.org/) and [OpenMMLab](https://openmmlab.com/) frameworks.
 
 ## Installation
 
@@ -24,7 +24,7 @@ pip install mmcv==2.2.0
 pip install mmpretrain==1.2.0
 ```
 
-### 3. Install MMDetection 
+### 3. Install MMDetection 3.1
 ```bash
 pip install -e .
 ```
